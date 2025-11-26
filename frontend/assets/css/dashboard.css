@@ -63,6 +63,10 @@ body{
     color: #fff;
     text-decoration: none;
     transition: all 0.3s;
+
+}
+
+.nav-link:houver{
     border-left: 1px solid #fff;
 }
 
